@@ -11,7 +11,7 @@ Aspect no.2:**Violations on weekdays by Zipcode**
 https://public.tableau.com/profile/kushall.dayal#!/vizhome/Book2_15564474413700/Totalviolations?publish=yes
 
 This aspect hovers over the violations in each zipcode .
-**Interesting** fact about this finding was that zipcodes:**60619,60623,60631,60636,60641** (marked in black) have had no violoations on the weekend !
+**Interesting** fact about this finding was that zipcodes:**60619,60623,60631,60636,60641** (marked in black) have had no violations on the weekend !
 The other colored cameras have had lower readings over the time, which is a good thing to consider .Other concerns regarding lower reading per zipcode was that there were lesser number of cameras installed in some areas, Zipcode:*60643,60642,60662,60645,60642* can have more cameras.
 
 Aspect no.3:** **
