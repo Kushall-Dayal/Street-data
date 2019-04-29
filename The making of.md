@@ -14,13 +14,10 @@ This aspect hovers over the violations in each zipcode .
 **Interesting** fact about this finding was that zipcodes:**60619,60623,60631,60636,60641** (marked in black) have had no violations on the weekend !
 The other colored cameras have had lower readings over the time, which is a good thing to consider .Other concerns regarding lower reading per zipcode was that there were lesser number of cameras installed in some areas, Zipcode:*60643,60642,60662,60645,60642* can have more cameras.
 
-Aspect no.3:**Violations and Crashes on weekdays**
+Aspect no.3:**Violations based on age **
 
-Total speed violations on weekdays:https://public.tableau.com/profile/kushall.dayal#!/vizhome/Book1-Copy_15565065662660/Sheet4?publish=yes
-Total crashes on weekdays:https://public.tableau.com/profile/kushall.dayal#!/vizhome/Book1_15565067557160/Sheet4?publish=yes
+https://public.tableau.com/profile/kushall.dayal#!/vizhome/Violationsbyage/Sheet1?publish=yes 
 
-The non-trivial part is that  number of crashes and speed violations per weekday are significantly co-related.Friday has both the highest number of crashes and violations through the years.
+*Non-trivial* fact about this visualisation is that most numbers of violations are done in the area where the median age is 38.80.Which is significantly higher than other age groups.
 
-The plots were made by using number of records per weekday in case of crashes as there was no count variable for crashes.
-And, for violations su of violations per weekday was calculated.
-Both the visuals are Bar plots so that it is convinient to compare both the plots .
+The Bars were plotted with x-axis as the age and Y-axis was the sum of violations.The same is repeated for each year to see the trend over the time
