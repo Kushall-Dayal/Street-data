@@ -15,3 +15,12 @@ This aspect hovers over the violations in each zipcode .
 The other colored cameras have had lower readings over the time, which is a good thing to consider .Other concerns regarding lower reading per zipcode was that there were lesser number of cameras installed in some areas, Zipcode:*60643,60642,60662,60645,60642* can have more cameras.
 
 Aspect no.3:** **
+
+Total speed violations on weekdays:https://public.tableau.com/profile/kushall.dayal#!/vizhome/Book1-Copy_15565065662660/Sheet4?publish=yes
+Total crashes on weekdays:https://public.tableau.com/profile/kushall.dayal#!/vizhome/Book1_15565067557160/Sheet4?publish=yes
+
+The non-trivial part is that  number of crashes and speed violations per weekday are significantly co-related.Friday has both the highest number of crashes and violations through the years.
+
+The plots were made by using number of records per weekday in case of crashes as there was no count variable for crashes.
+And, for violations su of violations per weekday was calculated.
+Both the visuals are Bar plots so that it is convinient to compare both the plots .
